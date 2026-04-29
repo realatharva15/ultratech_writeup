@@ -1,7 +1,7 @@
 # Try Hack Me - UltraTech
 # Author: Atharva Bordavekar
 # Difficulty: Medium
-# Points: 240
+# Points: 270
 # Vulnerabilities: RCE (command chaining + filter bypassing), exposed credentials, hash cracking, Privilege Escalation via docker
 
 # Phase 1 - Reconnaissance:
